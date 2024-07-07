@@ -63,7 +63,7 @@ To add more characters to the animation, modify the `letters` string in the Java
 
 ## 🎨 Demo
 
-![Demo Screenshot](sample.jpg)
+![Demo Screenshot](sample.png)
 
 ## 📜 License
 
